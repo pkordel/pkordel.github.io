@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://pkordel.github.io/sitemap.xml 
