@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://pkordel.github.io/blog/2012/09/29/traveling-and-coding-running-a-business-from-the-road/
+        </loc>
+        <lastmod>2013-09-27T15:28:38+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://pkordel.github.io/blog/archives/</loc>
+        <lastmod>2013-09-27T15:28:38+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://pkordel.github.io/</loc>
+        <lastmod>2013-09-27T15:28:38+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://pkordel.github.io/robots.txt</loc>
+        <lastmod>2013-09-27T15:11:26+02:00</lastmod>
+    </url>
+</urlset>

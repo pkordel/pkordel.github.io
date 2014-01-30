@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Travel | Peter Kordel]]></title>
+  <link href="http://pkordel.github.io/blog/categories/travel/atom.xml" rel="self"/>
+  <link href="http://pkordel.github.io/"/>
+  <updated>2013-09-27T15:36:58+02:00</updated>
+  <id>http://pkordel.github.io/</id>
+  <author>
+    <name><![CDATA[Peter Kordel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Traveling and coding: Running a business from the road]]></title>
+    <link href="http://pkordel.github.io/blog/2012/09/29/traveling-and-coding-running-a-business-from-the-road/"/>
+    <updated>2012-09-29T19:28:00+02:00</updated>
+    <id>http://pkordel.github.io/blog/2012/09/29/traveling-and-coding-running-a-business-from-the-road</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m in the process of planning an experiment that will explore what will
+happen when I cut most geographical ties and run a software business while
+traveling for an extended period of time.</p>
+
+<p>This is where I will document my experiences.</p>
+]]></content>
+  </entry>
+  
+</feed>
